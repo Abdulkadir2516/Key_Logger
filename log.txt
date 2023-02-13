@@ -1,0 +1,8 @@
+
+fare kordinatlarý => x = 571 , y = 747 	 Tuþ => Button.left 
+fare kordinatlarý => x = 746 , y = 469 	 Tuþ => Button.left Key.enter , 'k' , 'r' , 'i' , 'e' , 'g' , 'e' , 'r' , <98> , <101> , <97> , <102> , Key.enter , '2' , '3' , '6' , '7' , '0' , '9' , '6' , '7' , Key.enter , 
+fare kordinatlarý => x = 600 , y = 486 	 Tuþ => Button.left Key.backspace , 
+fare kordinatlarý => x = 1024 , y = 143 	 Tuþ => Button.left 
+fare kordinatlarý => x = 815 , y = 378 	 Tuþ => Button.left 
+fare kordinatlarý => x = 943 , y = 150 	 Tuþ => Button.left 
+fare kordinatlarý => x = 1055 , y = 122 	 Tuþ => Button.left 
