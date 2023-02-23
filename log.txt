@@ -1,8 +1,43 @@
 
-fare kordinatlarý => x = 571 , y = 747 	 Tuþ => Button.left 
-fare kordinatlarý => x = 746 , y = 469 	 Tuþ => Button.left Key.enter , 'k' , 'r' , 'i' , 'e' , 'g' , 'e' , 'r' , <98> , <101> , <97> , <102> , Key.enter , '2' , '3' , '6' , '7' , '0' , '9' , '6' , '7' , Key.enter , 
-fare kordinatlarý => x = 600 , y = 486 	 Tuþ => Button.left Key.backspace , 
-fare kordinatlarý => x = 1024 , y = 143 	 Tuþ => Button.left 
-fare kordinatlarý => x = 815 , y = 378 	 Tuþ => Button.left 
-fare kordinatlarý => x = 943 , y = 150 	 Tuþ => Button.left 
-fare kordinatlarý => x = 1055 , y = 122 	 Tuþ => Button.left 
+fare kordinatlarý => x = 271 , y = 747 	 Tuþ => Button.left 
+fare kordinatlarý => x = 188 , y = 658 	 Tuþ => Button.left 
+fare kordinatlarý => x = 1249 , y = 6 	 Tuþ => Button.left 
+fare kordinatlarý => x = 699 , y = 752 	 Tuþ => Button.left 
+fare kordinatlarý => x = 1321 , y = 6 	 Tuþ => Button.left 
+fare kordinatlarý => x = 736 , y = 446 	 Tuþ => Button.left 
+fare kordinatlarý => x = 507 , y = 752 	 Tuþ => Button.left 
+fare kordinatlarý => x = 858 , y = 251 	 Tuþ => Button.left 'y' , 'a' , 'z' , 'd' , 'ý' , 'ð' , 'ý' , 'm' , 'ý' , 'z' , 'd' , 'a' , Key.space , 'b' , 'i' , 'þ' , 'e' , Key.space , Key.backspace , Key.backspace , Key.backspace , Key.backspace , Key.backspace , 'r' , 'k' , 'a' , Key.space , 'p' , 'l' , 'a' , 'n' , 'd' , 'a' , Key.space , 'b' , 'i' , 'r' , Key.space , 't' , 'k' , 'a' , Key.backspace , Key.backspace , 'a' , 'k' , 'ý' , 'm' , Key.space , 'i' , 'þ' , 'l' , 'e' , 'r' , Key.space , 'y' , 'a' , 'p' , 'ý' , 'y' , 'o' , 'r' , 'd' , 'u' , Key.space , Key.enter , <97> , <101> , Key.space , '1' , '2' , '3' , '4' , '5' , '6' , '7' , '8' , '9' , '0' , '*' , Key.space , <97> , <98> , <99> , <100> , <101> , <102> , <103> , <104> , <105> , 
+fare kordinatlarý => x = 1057 , y = 243 	 Tuþ => Button.left 
+fare kordinatlarý => x = 587 , y = 185 	 Tuþ => Button.left 
+fare kordinatlarý => x = 575 , y = 319 	 Tuþ => Button.left 
+fare kordinatlarý => x = 575 , y = 319 	 Tuþ => Button.left 
+fare kordinatlarý => x = 765 , y = 109 	 Tuþ => Button.left 
+fare kordinatlarý => x = 954 , y = 29 	 Tuþ => Button.left 
+fare kordinatlarý => x = 986 , y = 104 	 Tuþ => Button.left 
+fare kordinatlarý => x = 922 , y = 519 	 Tuþ => Button.left 
+fare kordinatlarý => x = 827 , y = 113 	 Tuþ => Button.left 
+fare kordinatlarý => x = 827 , y = 113 	 Tuþ => Button.left 
+fare kordinatlarý => x = 748 , y = 23 	 Tuþ => Button.left 
+fare kordinatlarý => x = 882 , y = 104 	 Tuþ => Button.left 
+fare kordinatlarý => x = 582 , y = 211 	 Tuþ => Button.left 
+fare kordinatlarý => x = 1328 , y = 206 	 Tuþ => Button.left 
+fare kordinatlarý => x = 470 , y = 514 	 Tuþ => Button.left 
+fare kordinatlarý => x = 242 , y = 314 	 Tuþ => Button.left 
+fare kordinatlarý => x = 242 , y = 314 	 Tuþ => Button.left 
+fare kordinatlarý => x = 260 , y = 280 	 Tuþ => Button.left 
+fare kordinatlarý => x = 260 , y = 280 	 Tuþ => Button.left Key.right , Key.right , Key.right , Key.right , Key.right , Key.right , Key.right , Key.right , Key.right , Key.right , Key.right , Key.right , Key.right , Key.right , Key.right , Key.right , Key.right , Key.right , Key.right , Key.right , Key.right , Key.right , Key.right , Key.right , Key.right , Key.right , 
+fare kordinatlarý => x = 1273 , y = 118 	 Tuþ => Button.left 
+fare kordinatlarý => x = 713 , y = 381 	 Tuþ => Button.left 
+fare kordinatlarý => x = 1218 , y = 54 	 Tuþ => Button.left 
+fare kordinatlarý => x = 911 , y = 348 	 Tuþ => Button.left 
+fare kordinatlarý => x = 628 , y = 80 	 Tuþ => Button.left 
+fare kordinatlarý => x = 217 , y = 230 	 Tuþ => Button.left 
+fare kordinatlarý => x = 309 , y = 517 	 Tuþ => Button.left 
+fare kordinatlarý => x = 229 , y = 381 	 Tuþ => Button.left 
+fare kordinatlarý => x = 229 , y = 381 	 Tuþ => Button.left 
+fare kordinatlarý => x = 1269 , y = 115 	 Tuþ => Button.left 
+fare kordinatlarý => x = 464 , y = 512 	 Tuþ => Button.left 
+fare kordinatlarý => x = 441 , y = 513 	 Tuþ => Button.left 
+fare kordinatlarý => x = 866 , y = 287 	 Tuþ => Button.left 
+fare kordinatlarý => x = 860 , y = 290 	 Tuþ => Button.left 
+fare kordinatlarý => x = 1139 , y = 184 	 Tuþ => Button.left 
