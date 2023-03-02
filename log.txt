@@ -1,2 +1,23 @@
 
-fare kordinatlarý => x = 366 , y = 633 	 Tuþ => Button.left Key.ctrl_l , Key.shift , Key.esc , Key.ctrl_l , Key.shift , Key.shift , Key.shift , Key.shift , Key.shift , Key.shift , Key.shift , Key.shift , Key.shift , Key.shift , Key.shift , Key.esc , Key.ctrl_l , Key.shift , Key.esc , Key.enter , 
+fare kordinatlarý => x = 694 , y = 279 	 Tuþ => Button.left 
+fare kordinatlarý => x = 696 , y = 282 	 Tuþ => Button.left 
+fare kordinatlarý => x = 333 , y = 174 	 Tuþ => Button.left 
+fare kordinatlarý => x = 703 , y = 280 	 Tuþ => Button.left 
+fare kordinatlarý => x = 703 , y = 280 	 Tuþ => Button.left 
+fare kordinatlarý => x = 1076 , y = 266 	 Tuþ => Button.left 
+fare kordinatlarý => x = 1132 , y = 273 	 Tuþ => Button.left 
+fare kordinatlarý => x = 117 , y = 417 	 Tuþ => Button.left 
+fare kordinatlarý => x = 118 , y = 446 	 Tuþ => Button.left 
+fare kordinatlarý => x = 130 , y = 367 	 Tuþ => Button.left 
+fare kordinatlarý => x = 152 , y = 409 	 Tuþ => Button.left 
+fare kordinatlarý => x = 118 , y = 454 	 Tuþ => Button.left 
+fare kordinatlarý => x = 112 , y = 445 	 Tuþ => Button.left 
+fare kordinatlarý => x = 117 , y = 345 	 Tuþ => Button.left 
+fare kordinatlarý => x = 119 , y = 391 	 Tuþ => Button.left 
+fare kordinatlarý => x = 113 , y = 478 	 Tuþ => Button.left 
+fare kordinatlarý => x = 109 , y = 525 	 Tuþ => Button.left 
+fare kordinatlarý => x = 112 , y = 550 	 Tuþ => Button.left 
+fare kordinatlarý => x = 430 , y = 20 	 Tuþ => Button.left 
+fare kordinatlarý => x = 422 , y = 20 	 Tuþ => Button.left 
+fare kordinatlarý => x = 1365 , y = 0 	 Tuþ => Button.left 
+fare kordinatlarý => x = 1122 , y = 168 	 Tuþ => Button.left 
